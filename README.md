@@ -1,4 +1,6 @@
 # vgy.me
+![.NET Core](https://github.com/Merlin04/vgy.me/workflows/.NET%20Core/badge.svg)
+
 A CLI for the image hosting website vgy.me. To use this, you'll need a vgy.me userkey, which you can generate [here](https://vgy.me/account/details). 
 
 ## Usage
