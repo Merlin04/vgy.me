@@ -8,6 +8,7 @@
         <PackageOutputPath>./nupkg</PackageOutputPath>
         <PackageId>vgy.me</PackageId>
         <Version>0.1.0</Version>
+        <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
         <Description>
             A CLI for the image hosting website vgy.me.
         </Description>
