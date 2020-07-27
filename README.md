@@ -3,6 +3,13 @@
 
 A CLI for the image hosting website vgy.me. To use this, you'll need a vgy.me userkey, which you can generate [here](https://vgy.me/account/details). 
 
+## Installation
+
+Use the dotnet command line tool to install:
+```
+dotnet tool install -g vgy.me
+```
+
 ## Usage
 
 ### Upload
