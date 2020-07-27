@@ -27,7 +27,6 @@ namespace vgy.me
                 .UseTitle("vgy.me CLI")
                 .UseDescription("Unofficial CLI for vgy.me")
                 .UseExecutableName("vgy.me")
-                .UseVersionText("v0.1.0")
                 .UseTypeActivator(serviceProvider.GetService)
                 .Build()
                 .RunAsync();
